@@ -1,2 +1,2 @@
 # camera
-camera for websitex
+camera for website
